@@ -9,6 +9,7 @@
     </h1>
 </div>
 
+![License MIT](https://img.shields.io/github/license/Edderson/sistema-de-registro)
 
 <h1> Sistema de Registro</h1>
 - Estado del proyecto: En construcción.
