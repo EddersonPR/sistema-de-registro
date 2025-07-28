@@ -1,2 +1,14 @@
+<div align="center">
+  <h1 align="center">
+    Sistema de Registro 
+    <br />
+    <br />
+    <a href="https://github.com/EddersonPR/sistema-de-registro"> 
+      <img src="https://raw.githubusercontent.com/EddersonPR/sistema-de-registro/main/Portada_SistemaRegistro.avif" alt="Portada del Sistema de Registro">
+    </a>
+    </h1>
+</div>
+
+
 <h1> Sistema de Registro</h1>
 - Estado del proyecto: En construcción.
