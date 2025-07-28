@@ -10,3 +10,5 @@
 Para ejecutar la aplicación debes seguir la siguiente ruta:
 
 ```Descargar la carpeta y guardarlo en tu escritorio```
+
+Sistema de registro 2
