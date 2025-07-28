@@ -4,7 +4,7 @@
     <br />
     <br />
     <a href="https://github.com/EddersonPR/sistema-de-registro"> 
-      <img src="https://raw.githubusercontent.com/EddersonPR/sistema-de-registro/main/Portada_SistemaRegistro.avif" alt="Portada del Sistema de Registro">
+      <img width = "500" height = "140" src="https://raw.githubusercontent.com/EddersonPR/sistema-de-registro/main/Portada_SistemaRegistro.avif" alt="Portada del Sistema de Registro">
     </a>
     </h1>
 </div>
